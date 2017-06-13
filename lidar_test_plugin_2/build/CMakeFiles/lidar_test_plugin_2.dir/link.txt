@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++11   -shared -Wl,-soname,liblidar_test_plugin_2.so -o liblidar_test_plugin_2.so CMakeFiles/lidar_test_plugin_2.dir/lidar_test_plugin_2.cc.o  -L/usr/lib/x86_64-linux-gnu/gazebo-7/plugins 
